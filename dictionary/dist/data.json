@@ -1,0 +1,16 @@
+{"slovnik": [
+	{"id":"1","cs":"počítač","en":"computer"},
+	{"id":"4","cs":"plamen","en":"flame"},
+	{"id":"6","cs":"oheň","en":"fire"},
+	{"id":"7","cs":"slovo","en":"word"},
+	{"id":"9","cs":"stůl","en":"table"},
+	{"id":"10","cs":"kniha","en":"book"},
+	{"id":"11","cs":"ulice","en":"street"},
+	{"id":"12","cs":"přidat","en":"add"},
+	{"id":"13","cs":"vymazat","en":"delete"},
+	{"id":"14","cs":"hledat","en":"find"},
+	{"id":"16","cs":"cesta","en":"road"},
+	{"id":"17","cs":"řidič","en":"driver"},
+	{"id":"20","cs":"Číňan","en":"Chinese"},
+	{"id":"23","cs":"dům","en":"house"}
+]}

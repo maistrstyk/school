@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slovnik>
+	<slovo id="1" >
+		<cs>počítač</cs>
+		<en>computer</en>
+	</slovo>
+	<slovo id="4" >
+		<cs>plamen</cs>
+		<en>flame</en>
+	</slovo>
+	<slovo id="6" >
+		<cs>oheň</cs>
+		<en>fire</en>
+	</slovo>
+	<slovo id="7" >
+		<cs>slovo</cs>
+		<en>word</en>
+	</slovo>
+	<slovo id="9" >
+		<cs>stůl</cs>
+		<en>table</en>
+	</slovo>
+	<slovo id="10" >
+		<cs>kniha</cs>
+		<en>book</en>
+	</slovo>
+	<slovo id="11" >
+		<cs>ulice</cs>
+		<en>street</en>
+	</slovo>
+	<slovo id="12" >
+		<cs>přidat</cs>
+		<en>add</en>
+	</slovo>
+	<slovo id="13" >
+		<cs>vymazat</cs>
+		<en>delete</en>
+	</slovo>
+	<slovo id="14" >
+		<cs>hledat</cs>
+		<en>find</en>
+	</slovo>
+	<slovo id="16" >
+		<cs>cesta</cs>
+		<en>road</en>
+	</slovo>
+	<slovo id="17" >
+		<cs>řidič</cs>
+		<en>driver</en>
+	</slovo>
+	<slovo id="20" >
+		<cs>Číňan</cs>
+		<en>Chinese</en>
+	</slovo>
+	<slovo id="23" >
+		<cs>dům</cs>
+		<en>house</en>
+	</slovo>
+</slovnik>
